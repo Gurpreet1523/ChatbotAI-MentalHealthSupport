@@ -1,0 +1,175 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Is anyone there?",
+        "Good day",
+        "Hey",
+        "Howdy"
+      ],
+      "responses": [
+        "Hello! How can I assist you today?",
+        "Hi there! What’s on your mind?",
+        "Greetings! How can I help you?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Take care",
+        "I am leaving"
+      ],
+      "responses": [
+        "Goodbye! Take care of yourself.",
+        "See you later! Remember, I'm here if you need me.",
+        "Goodbye! Don't hesitate to come back if you want to talk."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "Appreciate it",
+        "Thanks a lot",
+        "Many thanks"
+      ],
+      "responses": [
+        "You're welcome! I'm here to help.",
+        "No problem! Glad I could assist.",
+        "Anytime! If you need anything else, just ask."
+      ]
+    },
+    {
+      "tag": "stress_management",
+      "patterns": [
+        "I need to decrease stress",
+        "ways to reduce stress",
+        "feel stressed",
+        "I'm feeling stressed",
+        "I have so much stress",
+        "How can I reduce stress?",
+        "I need help with stress",
+        "What can I do about stress?"
+      ],
+      "responses": [
+        "It's important to take breaks and practice mindfulness. Have you tried meditation?",
+        "Exercise and talking to someone can really help with stress. Would you like to talk about it?",
+        "Consider deep breathing exercises or a short walk to help relieve stress."
+      ]
+    },
+    {
+      "tag": "anxiety",
+      "patterns": [
+        "feeling anxious",
+        "get rid of anxiety",
+        "I'm feeling anxious",
+        "I have anxiety",
+        "What should I do about my anxiety?",
+        "How can I manage anxiety?",
+        "I'm nervous about something"
+      ],
+      "responses": [
+        "Anxiety can be tough. Have you tried grounding techniques, like focusing on your breathing?",
+        "Talking to someone about your feelings can really help. Would you like to share more?",
+        "Consider writing down your thoughts or practicing mindfulness to manage anxiety."
+      ]
+    },
+    {
+      "tag": "depression",
+      "patterns": [
+        "I'm feeling depressed",
+        "I feel hopeless",
+        "I'm sad all the time",
+        "What can I do about my depression?",
+        "I have no motivation"
+      ],
+      "responses": [
+        "It's important to reach out for help. Have you considered talking to a mental health professional?",
+        "Sometimes, sharing how you feel with someone can lighten the burden. I'm here to listen.",
+        "Engaging in activities you enjoy, even if they seem small, can help. Would you like to talk more about this?"
+      ]
+    },
+    {
+      "tag": "self_care",
+      "patterns": [
+        "What is self-care?",
+        "How can I take care of myself?",
+        "Give me self-care tips",
+        "What are some self-care ideas?",
+        "I need to practice self-care"
+      ],
+      "responses": [
+        "Self-care involves taking time to care for your mental and emotional well-being. What activities do you enjoy?",
+        "Consider setting aside time for activities that relax you, like reading or taking a bath.",
+        "Journaling or spending time in nature can be great self-care practices. What would you like to try?"
+      ]
+    },
+    {
+      "tag": "emotional_support",
+      "patterns": [
+        "I need someone to talk to",
+        "I feel lonely",
+        "I need emotional support",
+        "Can you listen to me?",
+        "I want to share my feelings"
+      ],
+      "responses": [
+        "I'm here to listen. Please feel free to share what you're feeling.",
+        "It's okay to feel lonely sometimes. Talking about it can help.",
+        "What’s been on your mind? I'm here for you."
+      ]
+    },
+    {
+      "tag": "motivational",
+      "patterns": [
+        "I need motivation",
+        "How can I stay motivated?",
+        "I feel unmotivated",
+        "What can I do to find motivation?",
+        "Give me some motivation"
+      ],
+      "responses": [
+        "Setting small, achievable goals can help build motivation. What do you want to achieve?",
+        "Remember, progress takes time. Celebrate small wins along the way!",
+        "Motivation often comes from within. Reflect on what inspires you."
+      ]
+    },
+    {
+      "tag": "helpline",
+      "patterns": [
+        "I need help",
+        "Where can I find support?",
+        "Are there hotlines I can call?",
+        "I want professional help",
+        "How do I talk to someone?"
+      ],
+      "responses": [
+        "It's great that you're seeking help. You can reach out to mental health professionals or helplines in your area.",
+        "If you’re in immediate distress, please consider contacting a local helpline. Would you like information on that?",
+        "Talking to a counselor or therapist can provide support. It's a positive step!"
+      ]
+    },
+    {
+      "tag": "mindfulness",
+      "patterns": [
+        "What is mindfulness?",
+        "How can I practice mindfulness?",
+        "Tell me about mindfulness techniques",
+        "I want to be more mindful",
+        "Help me with mindfulness"
+      ],
+      "responses": [
+        "Mindfulness is about being present in the moment. Have you tried meditation or breathing exercises?",
+        "Practicing mindfulness can reduce stress and anxiety. Would you like a simple exercise to try?",
+        "Consider focusing on your breath or observing your surroundings to practice mindfulness."
+      ]
+    }
+  ]
+}
